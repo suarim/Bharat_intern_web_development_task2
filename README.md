@@ -1,6 +1,6 @@
 # Bharat_intern_web_development_task2
 temperature converter
-This is temperature converter page that converts the temperature from the following:-
+This is a temperature converter page that converts the temperature from the following:-
 Celcuis to Fahrenheit
 Fahrenheit to Celcius
 Kelvin to Celcius
